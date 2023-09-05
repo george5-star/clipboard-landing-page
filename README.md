@@ -1,7 +1,5 @@
 # Frontend Mentor - Clipboard landing page solution
 
-This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -25,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Project Screenshot](./src/images/project-screenshot.jpg)
 
 ## My process
 
@@ -40,12 +38,15 @@ Users should be able to:
 
 ### What I learned
 
+I learned how complex the html structure can be due to project size.
+
 ### Continued development
+
+I will continue to refine my html project structure skills.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning
+- [Css filter generator](https://angel-rs.github.io/css-color-filter-generator/) - I love using this tool.
 
 ## Author
 
